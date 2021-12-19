@@ -29,5 +29,13 @@ body{
 .card-back{
     background-color: #0a3d62;
     border-radius: 10px;
+    box-shadow: 0 0  9px rgba(0, 0, 0, .5);
+
+}
+
+
+
+.card-back:hover{
     box-shadow: 0 0  15px rgba(0, 0, 0, .5);
+
 }
